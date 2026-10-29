@@ -1,0 +1,16 @@
+{
+  "name": "PerfArchitect",
+  "short_name": "PerfArchitect",
+  "description": "Architect high-performance systems with confidence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
